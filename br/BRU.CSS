@@ -1,0 +1,15 @@
+BODY {BACKGROUND-POSITION: 50% 50%; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(../br/img/BRU.gif); BACKGROUND-REPEAT: no-repeat; FONT-SIZE: 9pt}
+TR {FONT-SIZE: 9pt}TD {FONT-SIZE: 9pt}TH {FONT-SIZE: 9pt}
+A:hover {COLOR: #ffff99}
+.small {FONT-SIZE: 9pt}
+.b1 {BORDER-RIGHT: #669 1px solid; BORDER-TOP: #ccf 1px solid; BACKGROUND: #003; BORDER-LEFT: #ccf 1px solid; COLOR: #fff; BORDER-BOTTOM: #669 1px solid; TEXT-ALIGN: center}
+.b2 {BORDER-RIGHT: #669 1px solid; BORDER-TOP: #ccf 1px solid; BACKGROUND: #005; BORDER-LEFT: #ccf 1px solid; COLOR: #fff; BORDER-BOTTOM: #669 1px solid; TEXT-ALIGN: center}
+.b3 {BORDER-RIGHT: #669 1px solid; BORDER-TOP: #ccf 1px solid; BORDER-LEFT: #ccf 1px solid; COLOR: #fff; BORDER-BOTTOM: #669 1px solid; TEXT-ALIGN: center}
+.b4 {BORDER-RIGHT: #966 1px solid; BORDER-TOP: #fcc 1px solid; BORDER-LEFT: #fcc 1px solid; COLOR: #fff; BORDER-BOTTOM: #966 1px solid; TEXT-ALIGN: center}
+.t1 {text-align:center; font-weight: bold; color: black; border-left-style: none; border-right: 1.5pt solid black; border-top-style: none; border-bottom: 1.5pt solid black}
+.t2 {text-align:center; font-weight: bold; color: black; border-left-style: none; border-right-style: none; border-top-style: none; border-bottom: 1.5pt solid black}
+.t3 {text-align:center; font-weight: bold; color: black; border-left-style: none; border-right: 1.5pt solid black; border-top-style: none; border-bottom-style: none}
+.t4 {text-align:center; font-weight: normal; color: black; border-style: none; background-color: #808080}
+.t5 {text-align:center; font-weight: normal; color: black; border-style: none; background-color: #333333}
+.dmg {FONT-SIZE: 12pt; COLOR: #ff0000}
+.clit {FONT: 900 18pt serif; COLOR: #feea23}
